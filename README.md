@@ -4,7 +4,7 @@ Software Engineer at [Metal]! Former [a/A] curriculum developer, concert product
 
 **Fun facts 🐶**
 - I'm a hobbyist [photographer]
-- I love playing Words with Friends (especially with [andweeb])
+- I love playing Words with Friends (especially with [@andweeb])
 - I [stream] my adventures as a fire/poison mage ([GucciKimchi])
 - I almost moved to Germany to study [marimba] and [percussion]
 
@@ -22,7 +22,7 @@ Feel free to check out my [portfolio] or connect via [email] and [LinkedIn]!
 [percussion]: https://www.youtube.com/watch?v=v6C7oUaxNec
 [marimba]: https://youtu.be/i1z5eZOS6bw?t=137
 [portfolio]: https://junnac.com/
-[andweeb]: https://github.com/andweeb/
+[@andweeb]: https://github.com/andweeb/
 [email]: mailto:joannerdchen@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/joannerd/
 [GucciKimchi]: https://maplelegends.com/ranking/all?search=guccikimchi
