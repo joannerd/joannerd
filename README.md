@@ -5,7 +5,7 @@ Software Engineer at [Metal]! Former [a/A] curriculum developer, concert product
 **Fun facts 🐶**
 - I'm a hobbyist [photographer]
 - I love playing Words with Friends (especially with [@andweeb])
-- I love MapleLegends (if you play, add my main character [GucciKimchi])
+- I love MapleLegends (if you play, add [GucciKimchi] and let's be friends!)
 - I almost moved to Germany to study [marimba] and [percussion]
 
 Ask me anything about `switching into tech`, `education`, `contemporary music`, or `MapleLegends`! 😄
